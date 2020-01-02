@@ -68,6 +68,7 @@ let who = {
   name: 'Scuba Steve',
   age: 35,
   location: 'Belize'
+  
 }
 
 const whoSaysHi = sayHi.bind(who); 
